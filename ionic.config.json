@@ -1,5 +1,7 @@
 {
   "name": "Katvoz2019",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

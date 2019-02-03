@@ -1,0 +1,3867 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<RECS>
+	<INFO>
+		<AUTHOR>DMD 4 - </AUTHOR>
+		<EMAIL>hobl@hoblapech.cz</EMAIL>
+		<VERSION>DMDsk 4.7.373 CC</VERSION>
+		<BUILD>0</BUILD>
+		<BUILDTIME>14.05.2018 14:08</BUILDTIME>
+		<GUID>{A1E8D8C6-9797-48BF-B86A-86F3E440410E}</GUID>
+	</INFO>
+	<ORIGIN>
+		<PODNIK>Asanácia s.r.o.</PODNIK>
+		<ICO>36750204</ICO>
+		<DICO>SK2022337185</DICO>
+		<NAZEVDOADRESY>Asanácia s.r.o.</NAZEVDOADRESY>
+		<A1>Ružová 1637</A1>
+		<A2>010 01 Žilina</A2>
+		<DATE>21.07.18 18:55</DATE>
+		<ORIGTIME>18:55:16</ORIGTIME>
+		<AKTROK>2018</AKTROK>
+		<AKTMES>7</AKTMES>
+		<HERMES_URL>http://vassrv:3733/</HERMES_URL>
+		<OBLAST_ID>-1</OBLAST_ID>
+		<UZIVATEL_JMENO>Hermes:3733</UZIVATEL_JMENO>
+		<DATA_AKTUALNOST>0000000000000000</DATA_AKTUALNOST>
+		<TIME>8</TIME>
+		<ORIGINTIME>2018/07/21-18:55:16</ORIGINTIME>
+		<DATSTAT>21.07.18 18:55</DATSTAT>
+		<TV>2018/07/21-18:55:16</TV>
+		<TN>2018/07/21-18:55:16</TN>
+		<TZ>2018/07/21-18:55:16</TZ>
+		<TA>2018/07/21-18:55:16</TA>
+		<OD>01.06.2018</OD>
+		<DO>30.06.2018</DO>
+		<OD_ORIG>01.06.2018</OD_ORIG>
+		<DO_ORIG>30.06.2018</DO_ORIG>
+		<MESIC>6</MESIC>
+		<ROK>2018</ROK>
+		<FVOZ>0</FVOZ>
+		<FRID>0</FRID>
+		<USERNAME>Hermes:3733</USERNAME>
+		<GUID>{15B7DE02-30E1-433B-95C0-E5AB4DFD4549}</GUID>
+	</ORIGIN>
+	<NASTAVENI>
+		<SMERVYSTUPU>5</SMERVYSTUPU>
+		<DESETINNALOKALIZACE>-1</DESETINNALOKALIZACE>
+		<CISLOSTATISTIKY>-2</CISLOSTATISTIKY>
+		<TYPVYPISU>-2</TYPVYPISU>
+		<UZIVATELID>-2103733</UZIVATELID>
+		<SPEC_UZIVATEL_JMENO>Hermes:3733</SPEC_UZIVATEL_JMENO>
+		<OBLASTID>-1</OBLASTID>
+		<OBLASTPUVODNIID>-1</OBLASTPUVODNIID>
+		<OBLASTUZIVATELEID>-1</OBLASTUZIVATELEID>
+		<ODDATUMU>01.06.2018</ODDATUMU>
+		<DODATUMU>30.06.2018</DODATUMU>
+		<ODDATUMUORIG>01.06.2018</ODDATUMUORIG>
+		<DODATUMUORIG>30.06.2018</DODATUMUORIG>
+	</NASTAVENI>
+	<REC p="0" id="0" d="04/28/2013" t="17:48:09" od="11/15/2000" do="12/31/3999">
+		<EVC>338</EVC>
+		<SPZ>ZA 986 AZ</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="4580" hm_poh="7610" hm_uzi="6390" hm_celk="14000" max_preloz="50" sum_tlak="14000" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="7.1" s="2.5" v="3.55"/>
+		<CUD vyrb="11/15/2000" reg="11/15/2000" pri="11/15/2000" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="120">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BZ" stanaz="Benkalor Žehňa" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="11/15/2001"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/15/2000"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="24" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="24" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="1" pln="0" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>0589563597P371</CIS>
+				<INV>(motor)</INV>
+				<DAT>11/15/2000</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>motor</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>WMAL74ZZZ1Y069355</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>11/15/2000</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="1" id="7" d="04/28/2013" t="17:48:09" od="12/30/2002" do="12/31/3999">
+		<EVC>333</EVC>
+		<SPZ>ZA 246 DR</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="SC" n="Scania"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="8970" hm_poh="10160" hm_uzi="7840" hm_celk="18000" max_preloz="50" sum_tlak="19000" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="7.42" s="2.55" v="3.75"/>
+		<CUD vyrb="12/30/2002" reg="12/30/2002" pri="12/30/2002" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="300">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BZ" stanaz="Benkalor Žehňa" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<POZ>
+			<P>
+				<E n="Text">Servisný interval 30 000 km</E>
+			</P>
+		</POZ>
+		<AVOR>
+			<z k="OZ_" c="MA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="28" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="28" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="1" pln="0" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>6020031</CIS>
+				<INV>(motor)</INV>
+				<DAT>12/30/2002</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>motor</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>XLEP4X20004482223</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>12/30/2002</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="2" id="8" d="04/28/2013" t="17:48:09" od="06/24/2004" do="12/31/3999">
+		<EVC>335</EVC>
+		<SPZ>ZA 425 CA</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="6871" hm_poh="8200" hm_uzi="6800" hm_celk="15000" max_preloz="50" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="7.2" s="2.55" v="3.5"/>
+		<CUD vyrb="06/24/2004" reg="06/24/2004" pri="06/24/2004" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="150">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BE" stanaz="Benkalor Žilina" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/20/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="28" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="28" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="1" pln="0" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>155069556452B1</CIS>
+				<INV>(motor)</INV>
+				<DAT>06/24/2004</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>motor</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>WMAL82ZZX4Y133412</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>06/24/2004</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="3" id="15" d="04/28/2013" t="17:48:09" od="09/04/2001" do="12/31/3999">
+		<EVC>412</EVC>
+		<SPZ>ZA 617 BF</SPZ>
+		<DZ t="VTD" k="KR" n="Ramenový nakladač"/>
+		<ZNV t="VZ_" k="SC" n="Scania"/>
+		<TUD t="VZN" k="RNR" n="Kurta RNR 12"/>
+		<RZI obj_v="11705" hm_poh="9820" hm_uzi="8180" hm_celk="18000" max_preloz="50" sum_tlak="19000" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="6.43" s="2.55" v="3.5"/>
+		<CUD vyrb="09/04/2001" reg="09/04/2001" pri="09/04/2001" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="300">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BE" stanaz="Benkalor Žilina" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<POZ>
+			<P>
+				<E n="Text">Servisný interval 25 000 km</E>
+			</P>
+		</POZ>
+		<AVOR>
+			<z k="OZ_" c="VA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="29.4" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="29.4" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="1" pmj="100" pln="32.3" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="32.3" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+			<N n="1" pmj="1" pln="0" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>6145076</CIS>
+				<INV>(motor)</INV>
+				<DAT>09/04/2001</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>motor</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>XLEP4X20004458798</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>09/04/2001</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="4" id="16" d="04/28/2013" t="17:48:09" od="09/19/2001" do="12/31/3999">
+		<EVC>415</EVC>
+		<SPZ>ZA 891 BF</SPZ>
+		<DZ t="VTD" k="KR" n="Ramenový nakladač"/>
+		<ZNV t="VZ_" k="SC" n="Scania"/>
+		<TUD t="VZN" k="RNR" n="Kurta RNR 12"/>
+		<RZI obj_v="11705" hm_poh="9820" hm_uzi="8180" hm_celk="18000" max_preloz="50" sum_tlak="19000" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="6.43" s="2.55" v="3.5"/>
+		<CUD vyrb="09/19/2001" reg="09/19/2001" pri="09/19/2001" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="300">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BE" stanaz="Benkalor Žilina" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<POZ>
+			<P>
+				<E n="Text">Servisný interval 25 000 km</E>
+			</P>
+		</POZ>
+		<AVOR>
+			<z k="OZ_" c="VA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="29.4" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="29.4" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="1" pmj="100" pln="32.3" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="32.3" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+			<N n="1" pmj="1" pln="0" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>6145118</CIS>
+				<INV>(motor)</INV>
+				<DAT>09/19/2001</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>motor</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>XLEP4X20004458879</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>09/19/2001</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="5" id="17" d="10/10/2014" t="07:41:26" od="07/15/1996" do="12/31/3999">
+		<EVC>229</EVC>
+		<SPZ>ZA 857 GA</SPZ>
+		<DZ t="VTD" k="KR" n="Ramenový nakladač"/>
+		<ZNV t="VZ_" k="SC" n="Scania"/>
+		<TUD t="VZN" k="RNR" n="Kurta RNR 12"/>
+		<RZI obj_v="11000" hm_poh="9630" hm_uzi="6845" hm_celk="16475" max_preloz="50" sum_tlak="17500" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="6.4" s="2.5" v="3.5"/>
+		<CUD vyrb="06/17/1996" reg="06/17/1996" pri="07/15/1996" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="300">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BZ" stanaz="Benkalor Žehňa" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<POZ>
+			<P>
+				<E n="Text">Servisný interval 20 000 km</E>
+			</P>
+		</POZ>
+		<AVOR>
+			<z k="OZ_" c="VA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="29.4" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="29.4" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="1" pmj="100" pln="32.3" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="32.3" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+			<N n="1" pmj="1" pln="0" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>4111517</CIS>
+				<INV>(motor)</INV>
+				<DAT>07/15/1996</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>motor</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>XLEPH4X2Z04362053</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>07/15/1996</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="6" id="18" d="04/28/2013" t="17:48:09" od="05/03/2004" do="12/31/3999">
+		<EVC>527</EVC>
+		<SPZ>ZA 027 BZ</SPZ>
+		<DZ t="VTD" k="KR" n="Ramenový nakladač"/>
+		<ZNV t="VZ_" k="SC" n="Scania"/>
+		<TUD t="VZN" k="RNR" n="Kurta RNR 12"/>
+		<RZI obj_v="11705" hm_poh="10630" hm_uzi="7370" hm_celk="18000" max_preloz="50" sum_tlak="19000" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="6.6" s="2.55" v="3.6"/>
+		<CUD vyrb="05/03/2004" reg="05/03/2004" pri="05/03/2004" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="300">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BE" stanaz="Benkalor Žilina" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<POZ>
+			<P>
+				<E n="Text">Servisný interval 30 000 km</E>
+			</P>
+		</POZ>
+		<AVOR>
+			<z k="OZ_" c="VA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="29.4" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="32.3" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="1" pln="0" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+			<N n="1" pmj="100" pln="29.4" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="1" pmj="100" pln="32.3" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>6218660</CIS>
+				<INV>(motor)</INV>
+				<DAT>05/03/2004</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>motor</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>XLEP4X20004512624</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>05/03/2004</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="7" id="19" d="04/28/2013" t="17:48:09" od="09/10/1997" do="12/31/3999">
+		<EVC>249</EVC>
+		<SPZ>ZA 565 AC</SPZ>
+		<DZ t="VTD" k="KH" n="Hákový naťahovač"/>
+		<ZNV t="VZ_" k="SC" n="Scania"/>
+		<TUD t="VZN" k="HS" n="Hyvalift HS 20-49 SK"/>
+		<RZI obj_v="11705" hm_poh="9800" hm_uzi="15200" hm_celk="25000" max_preloz="50" sum_tlak="25500" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="7.24" s="2.5" v="3.01"/>
+		<CUD vyrb="09/10/1997" reg="09/10/1997" pri="09/10/1997" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="320">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BE" stanaz="Benkalor Žilina" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<POZ>
+			<P>
+				<E n="Text">Servisný interval 25 000 km</E>
+			</P>
+		</POZ>
+		<AVOR>
+			<z k="OZ_" c="VA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="31.4" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="32.4" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="1" pmj="100" pln="34.5" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="35.5" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+			<N n="1" pmj="1" pln="0" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>5712745</CIS>
+				<INV>(motor)</INV>
+				<DAT>09/10/1997</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>motor</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>XLEP6X20004375438</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>09/10/1997</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="8" id="20" d="10/03/2017" t="07:52:47" od="11/26/1997" do="12/31/3999">
+		<EVC>262</EVC>
+		<SPZ>ZA 892 AD</SPZ>
+		<DZ t="VTD" k="KH" n="Hákový naťahovač"/>
+		<ZNV t="VZ_" k="SC" n="Scania"/>
+		<TUD t="VZN" k="HS" n="Hyvalift HS 20-49 SK"/>
+		<RZI obj_v="11705" hm_poh="9800" hm_uzi="15200" hm_celk="25000" max_preloz="50" sum_tlak="25500" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="4.24" s="2.5" v="3.01"/>
+		<CUD vyrb="11/26/1997" reg="11/26/1997" pri="11/26/1997" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="300">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BE" stanaz="Benkalor Žilina" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<POZ>
+			<P>
+				<E n="Text">Servisný interval 25 000 km</E>
+			</P>
+		</POZ>
+		<AVOR>
+			<z k="OZ_" c="VA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="31.4" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="32.4" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="1" pmj="100" pln="34.5" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="35.5" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+			<N n="1" pmj="1" pln="0" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>5712842</CIS>
+				<INV>(motor)</INV>
+				<DAT>11/26/1997</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>motor</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>XLEP6X20004375527</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>11/26/1997</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="9" id="21" d="04/28/2013" t="17:48:09" od="03/14/2001" do="12/31/3999">
+		<EVC>356</EVC>
+		<SPZ>ZA 168 BC</SPZ>
+		<DZ t="VTD" k="KH" n="Hákový naťahovač"/>
+		<ZNV t="VZ_" k="SC" n="Scania"/>
+		<TUD t="VZN" k="HS" n="Hyvalift HS 20-49 SK"/>
+		<RZI obj_v="11705" hm_poh="11337" hm_uzi="13663" hm_celk="25000" max_preloz="5" sum_tlak="25500" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="6.97" s="2.5" v="2.93"/>
+		<CUD vyrb="03/14/2001" reg="03/14/2001" pri="03/14/2001" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="280">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BE" stanaz="Benkalor Žilina" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<POZ>
+			<P>
+				<E n="Text">Servisný interval 35 000 km</E>
+			</P>
+		</POZ>
+		<AVOR>
+			<z k="OZ_" c="VA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="31.4" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="34.5" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="1" pln="0" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+			<N n="1" pmj="100" pln="31.4" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="1" pmj="100" pln="34.5" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>6130287</CIS>
+				<INV>(motor)</INV>
+				<DAT>03/14/2001</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>motor</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>YS2P6X20001268431</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>03/14/2001</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="10" id="22" d="04/28/2013" t="17:48:09" od="09/19/2001" do="12/31/3999">
+		<EVC>416</EVC>
+		<SPZ>ZA 889 BF</SPZ>
+		<DZ t="VTD" k="KH" n="Hákový naťahovač"/>
+		<ZNV t="VZ_" k="SC" n="Scania"/>
+		<TUD t="VZN" k="HS" n="Hyvalift HS 20-49 SK"/>
+		<RZI obj_v="11705" hm_poh="11330" hm_uzi="13670" hm_celk="25000" max_preloz="50" sum_tlak="25500" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="6.97" s="2.5" v="3.14"/>
+		<CUD vyrb="09/19/2001" reg="09/19/2001" pri="09/19/2001" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="300">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BE" stanaz="Benkalor Žilina" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<POZ>
+			<P>
+				<E n="Text">Servisný interval 35 000 km</E>
+			</P>
+		</POZ>
+		<AVOR>
+			<z k="OZ_" c="VA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="31.4" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="31.4" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="1" pmj="100" pln="34.5" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="34.5" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+			<N n="1" pmj="1" pln="0" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>6145074</CIS>
+				<INV>(motor)</INV>
+				<DAT>09/19/2001</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>motor</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>XLEP6X20004458956</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>09/19/2001</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="11" id="26" d="04/28/2013" t="17:48:09" od="03/22/1996" do="12/31/3999">
+		<EVC>243</EVC>
+		<SPZ>ZA 411 YC</SPZ>
+		<DZ t="VTD" k="P3H" n="Príves 3osí hák"/>
+		<ZNV t="VZ_" k="BG" n="BGV"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="4720" hm_uzi="19280" hm_celk="24000" max_preloz="50" sum_tlak="27000" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="7.51" s="2.5" v="0"/>
+		</RZI>
+		<RZE d="9.56" s="2.5" v="1.2"/>
+		<CUD vyrb="03/22/1996" reg="03/22/1996" pri="03/22/1996" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<AVOR>
+			<z k="OZ_" c="VA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="0" pmj="100" pln="13.2" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="0" pmj="100" pln="14.5" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>TK9NPT240T2BG5076</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>03/22/1996</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="12" id="27" d="04/28/2013" t="17:48:09" od="08/21/1996" do="12/31/3999">
+		<EVC>230</EVC>
+		<SPZ>ZA 671 YB</SPZ>
+		<DZ t="VTD" k="P3V" n="Príves 3osí vaňa"/>
+		<ZNV t="VZ_" k="BG" n="BGV"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="5200" hm_uzi="18800" hm_celk="24000" max_preloz="50" sum_tlak="24000" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="9.3" s="2.44" v="0"/>
+		</RZI>
+		<RZE d="11.33" s="2.44" v="1.08"/>
+		<CUD vyrb="08/21/1996" reg="08/21/1996" pri="08/21/1996" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<AVOR>
+			<z k="OZ_" c="VA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="0" pmj="100" pln="13.2" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="0" pmj="100" pln="14.5" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>TK9NPT240T2BG5109</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>08/21/1996</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="13" id="28" d="04/28/2013" t="17:48:09" od="02/19/2001" do="12/31/3999">
+		<EVC>354</EVC>
+		<SPZ>ZA 769 YB</SPZ>
+		<DZ t="VTD" k="P3V" n="Príves 3osí vaňa"/>
+		<ZNV t="VZ_" k="BG" n="BGV"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="4500" hm_uzi="19500" hm_celk="24000" max_preloz="50" sum_tlak="25000" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="7.65" s="2.55" v="0"/>
+		</RZI>
+		<RZE d="9.8" s="2.55" v="1.15"/>
+		<CUD vyrb="02/19/2001" reg="02/19/2001" pri="02/19/2001" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<AVOR>
+			<z k="OZ_" c="VA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="0" pmj="100" pln="13.2" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="0" pmj="100" pln="14.5" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>TK9NPT24AZ2BG5347</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>02/19/2001</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="14" id="29" d="04/28/2013" t="17:48:09" od="02/10/1995" do="12/31/3999">
+		<EVC>206</EVC>
+		<SPZ>ZA 309 YC</SPZ>
+		<DZ t="VTD" k="P3V" n="Príves 3osí vaňa"/>
+		<ZNV t="VZ_" k="PA" n="Panav"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="5500" hm_uzi="18500" hm_celk="24000" max_preloz="50" sum_tlak="24000" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="8.2" s="2.42" v="0"/>
+		</RZI>
+		<RZE d="10.14" s="2.5" v="3.8"/>
+		<CUD vyrb="02/10/1995" reg="02/10/1995" pri="02/10/1995" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<AVOR>
+			<z k="OZ_" c="VA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="0" pmj="100" pln="13.2" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="0" pmj="100" pln="14.5" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>TKPPL2492R1000047</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>02/10/1995</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="15" id="30" d="04/28/2013" t="17:48:09" od="03/29/2004" do="12/31/3999">
+		<EVC>525</EVC>
+		<SPZ>ZA 058 YD</SPZ>
+		<DZ t="VTD" k="P3V" n="Príves 3osí vaňa"/>
+		<ZNV t="VZ_" k="BG" n="BGV"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="4400" hm_uzi="19600" hm_celk="24000" max_preloz="50" sum_tlak="27000" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="10.65" s="2.5" v="1.17"/>
+		<CUD vyrb="03/29/2004" reg="03/29/2004" pri="03/29/2004" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<AVOR>
+			<z k="OZ_" c="VA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="0" pmj="100" pln="13.2" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="0" pmj="100" pln="14.5" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+		</AVSN>
+		<SAZ_MZD t="TMS">
+			<SAZ k="KMV" n="Kilometer vlek" s="1" m="EUR" j="km" od="01/01/2001" do="12/31/2008"/>
+			<SAZ k="KMV" n="Kilometer vlek" s="0.03" m="EUR" j="km" od="01/01/2009" do="01/01/2070"/>
+		</SAZ_MZD>
+		<SML_MZD t="TMS"/>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>TK9PNT24C41GT5047</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>03/29/2004</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="16" id="31" d="04/28/2013" t="17:48:09" od="11/14/1997" do="12/31/3999">
+		<EVC>258</EVC>
+		<SPZ>ZA 164 YA</SPZ>
+		<DZ t="VTD" k="P3H" n="Príves 3osí hák"/>
+		<ZNV t="VZ_" k="BG" n="BGV"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="6000" hm_uzi="18000" hm_celk="24000" max_preloz="50" sum_tlak="17000" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="9.3" s="2.47" v="0"/>
+		</RZI>
+		<RZE d="11.29" s="2.47" v="1.15"/>
+		<CUD vyrb="11/14/1997" reg="11/14/1997" pri="11/14/1997" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<AVOR>
+			<z k="OZ_" c="VA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="0" pmj="100" pln="13.2" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="0" pmj="100" pln="14.5" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>TK9NPT24CV2BG5166</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>11/14/1997</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="17" id="32" d="04/28/2013" t="17:48:09" od="10/15/1997" do="12/31/3999">
+		<EVC>250</EVC>
+		<SPZ>ZA 216 YG</SPZ>
+		<DZ t="VTD" k="P3H" n="Príves 3osí hák"/>
+		<ZNV t="VZ_" k="BG" n="BGV"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="6000" hm_uzi="18000" hm_celk="24000" max_preloz="50" sum_tlak="25000" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="9.3" s="2.47" v="0"/>
+		</RZI>
+		<RZE d="11.29" s="2.47" v="1.15"/>
+		<CUD vyrb="10/15/1997" reg="10/15/1997" pri="10/15/1997" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<AVOR>
+			<z k="OZ_" c="VA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="0" pmj="100" pln="13.2" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="0" pmj="100" pln="14.5" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>TK9NPT24CV2BG5160</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>10/15/1997</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="18" id="33" d="04/28/2013" t="17:48:09" od="02/02/2001" do="12/31/3999">
+		<EVC>348</EVC>
+		<SPZ>ZA 758 YB</SPZ>
+		<DZ t="VTD" k="P3H" n="Príves 3osí hák"/>
+		<ZNV t="VZ_" k="BG" n="BGV"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="5400" hm_uzi="18600" hm_celk="24000" max_preloz="50" sum_tlak="25000" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="9.3" s="2.55" v="0"/>
+		</RZI>
+		<RZE d="11.25" s="2.55" v="1.12"/>
+		<CUD vyrb="02/02/2001" reg="02/02/2001" pri="02/02/2001" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<AVOR>
+			<z k="OZ_" c="VA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="0" pmj="100" pln="13.2" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="0" pmj="100" pln="14.5" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>TK9NPT24CY2BG5341</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>02/02/2001</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="19" id="34" d="04/28/2013" t="17:48:09" od="11/12/2001" do="12/31/3999">
+		<EVC>430</EVC>
+		<SPZ>ZA 180 YC</SPZ>
+		<DZ t="VTD" k="P3H" n="Príves 3osí hák"/>
+		<ZNV t="VZ_" k="BG" n="BGV"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="5170" hm_uzi="18830" hm_celk="24000" max_preloz="50" sum_tlak="25000" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="9.3" s="2.5" v="0"/>
+		</RZI>
+		<RZE d="11.1" s="2.55" v="0"/>
+		<CUD vyrb="11/12/2001" reg="11/12/2001" pri="11/12/2001" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<AVOR>
+			<z k="OZ_" c="VA" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/08/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="0" pmj="100" pln="13.2" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="0" pmj="100" pln="14.5" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>TK9NPT24C11GT5003</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>11/12/2001</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="20" id="39" d="04/28/2013" t="17:48:09" od="07/30/2003" do="12/31/3999">
+		<EVC>500</EVC>
+		<SPZ>ZA 369 BS</SPZ>
+		<DZ t="VTD" k="OS" n="Osobné"/>
+		<ZNV t="VZ_" k="MA" n="Mazda"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="1840" hm_poh="1256" hm_uzi="514" hm_celk="1770" max_preloz="0" sum_tlak="1870" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="4.34" s="1.7" v="1.57"/>
+		<CUD vyrb="07/30/2003" reg="07/30/2003" pri="07/30/2003" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="50">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Benzín N95 ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="DO" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="8.4" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="8.4" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>FP 871705</CIS>
+				<INV>(motor)</INV>
+				<DAT>07/30/2003</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>motor</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>JMZCP19F241348900</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>07/30/2003</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="21" id="56" d="06/13/2017" t="10:34:30" od="12/16/2004" do="12/31/3999">
+		<EVC>548</EVC>
+		<SPZ>ZA 971 HG</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="6871" hm_poh="10720" hm_uzi="7280" hm_celk="18000" max_preloz="50" sum_tlak="18600" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="5.2" s="2.4" v="1.8"/>
+		</RZI>
+		<RZE d="7.75" s="2.5" v="3.85"/>
+		<CUD vyrb="12/16/2004" reg="12/16/2004" pri="12/16/2004" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="280">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BE" stanaz="Benkalor Žilina" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="12/16/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="12/16/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="28" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="28" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="1" pln="0" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>WMAL87ZZ25Y140787</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>12/16/2004</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>15508325900834</CIS>
+				<INV>(motor)</INV>
+				<DAT>12/16/2004</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>motor</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="22" id="57" d="04/28/2013" t="17:48:09" od="12/16/2004" do="12/31/3999">
+		<EVC>549</EVC>
+		<SPZ>ZA 348 EL</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="6871" hm_poh="10720" hm_uzi="7280" hm_celk="18000" max_preloz="50" sum_tlak="18600" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="5.2" s="2.4" v="1.8"/>
+		</RZI>
+		<RZE d="7.75" s="2.5" v="3.85"/>
+		<CUD vyrb="12/16/2004" reg="12/16/2004" pri="12/16/2004" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="280">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="KN" stanaz="Kreditka Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="12/16/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="12/16/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="28" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="28" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="1" pln="0" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>WMAL87ZZ95Y140737</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>12/16/2004</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>15508325720834</CIS>
+				<INV>(motor)</INV>
+				<DAT>12/16/2004</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>motor</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="23" id="62" d="04/28/2013" t="17:48:09" od="01/01/2005" do="12/31/3999">
+		<EVC>1</EVC>
+		<SPZ>11</SPZ>
+		<DZ t="VTD" k="BEC" n="Bez ev.c."/>
+		<ZNV t="VZ_"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="0" hm_uzi="0" hm_celk="0" max_preloz="0" sum_tlak="0" poc_naprav="0" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="01/01/2005" reg="01/01/2005" pri="01/01/2005" vyrz="12/31/3999">
+			<F_PRI t="VZV"/>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="24" id="65" d="04/28/2013" t="17:48:09" od="03/17/2006" do="12/31/3999">
+		<EVC>604</EVC>
+		<SPZ>ZA 065 EJ</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="4580" hm_poh="7610" hm_uzi="6390" hm_celk="14000" max_preloz="50" sum_tlak="14000" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="7.1" s="2.5" v="3.55"/>
+		<CUD vyrb="12/15/2000" reg="12/15/2000" pri="03/17/2006" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup použitého">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="120">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BZ" stanaz="Benkalor Žehňa" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<POZ>
+			<P>
+				<E n="Text">Výmena ev.č. z ZA 122 CR - strata Hreha</E>
+			</P>
+		</POZ>
+		<AVOR>
+			<z k="OZ_" c="MA" d="03/17/2006"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="03/17/2006"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="24" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="24" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="1" pln="0" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>D0824LFL09</CIS>
+				<INV>(motor)</INV>
+				<DAT>03/17/2006</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>motor</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>WMAL74ZZZ1Y069877</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>03/17/2006</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="25" id="71" d="02/01/2018" t="11:04:21" od="09/20/2006" do="12/31/3999">
+		<EVC>629</EVC>
+		<SPZ>ZA 538 CV</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAZ" n="Kafilerická železná"/>
+		<RZI obj_v="6871" hm_poh="8840" hm_uzi="9160" hm_celk="18000" max_preloz="50" sum_tlak="18600" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="4.5" s="2.4" v="1.8"/>
+		</RZI>
+		<RZE d="7.3" s="2.55" v="3.3"/>
+		<CUD vyrb="09/20/2006" reg="09/20/2006" pri="09/20/2006" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="280">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BE" stanaz="Benkalor Žilina" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="09/20/2006"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="09/20/2006"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="28" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="28" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="1" pln="0" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>WMAL87ZZX6Y173229</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>09/20/2006</DAT>
+				<EXP>12/31/3999</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>D0836LFL03</CIS>
+				<INV>(motor)</INV>
+				<DAT>09/20/2006</DAT>
+				<EXP>12/31/3999</EXP>
+				<POZ>motor</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="26" id="72" d="04/28/2013" t="17:48:09" od="09/20/2006" do="12/31/3999">
+		<EVC>628</EVC>
+		<SPZ>ZA 537 CV</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAZ" n="Kafilerická železná"/>
+		<RZI obj_v="6871" hm_poh="8640" hm_uzi="9360" hm_celk="18000" max_preloz="50" sum_tlak="18600" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="5.2" s="2.2" v="1.8"/>
+		</RZI>
+		<RZE d="7.63" s="2.55" v="3.3"/>
+		<CUD vyrb="09/20/2006" reg="09/20/2006" pri="09/20/2006" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="280">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BZ" stanaz="Benkalor Žehňa" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="09/20/2006"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="09/20/2006"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="28" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="28" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="1" pln="0" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>WMAL87ZZ26Y173161</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>09/20/2006</DAT>
+				<EXP>12/31/3999</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>D0836LFL03</CIS>
+				<INV>(motor)</INV>
+				<DAT>09/20/2006</DAT>
+				<EXP>12/31/3999</EXP>
+				<POZ>motor</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="27" id="75" d="04/28/2013" t="17:48:09" od="04/02/2007" do="12/31/3999">
+		<EVC>647</EVC>
+		<SPZ>ZA 823 DB</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="4580" hm_poh="7610" hm_uzi="6390" hm_celk="14000" max_preloz="50" sum_tlak="14000" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="7.1" s="2.5" v="3.55"/>
+		<CUD vyrb="12/15/2000" reg="12/15/2000" pri="04/02/2007" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="120">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BZ" stanaz="Benkalor Žehňa" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="04/02/2007"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="04/02/2007"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="24" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="24" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="1" pln="0" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>D0824LFL09</CIS>
+				<INV>(motor)</INV>
+				<DAT>04/02/2007</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>motor</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>WMAL74ZZZ1Y069976</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>04/02/2007</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="28" id="76" d="05/29/2018" t="12:56:55" od="04/02/2007" do="12/31/3999">
+		<EVC>639</EVC>
+		<SPZ>ZA 822 DB</SPZ>
+		<DZ t="VTD" k="KH" n="Hákový naťahovač"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="HK" n="Hyvalift HS 18-53 S"/>
+		<RZI obj_v="11967" hm_poh="11110" hm_uzi="14890" hm_celk="26000" max_preloz="50" sum_tlak="26000" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="5.2" s="2.11" v="0"/>
+		</RZI>
+		<RZE d="8.6" s="2.55" v="3.15"/>
+		<CUD vyrb="12/17/2001" reg="12/17/2001" pri="04/02/2007" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="280">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="AS" d="04/02/2007"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="04/02/2007"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="30" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="32" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="1" pmj="100" pln="32" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="34" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+			<N n="1" pmj="0.0166666666666667" pln="1" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="N" n="nakládka"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>D 2866 LF 24</CIS>
+				<INV>(motor)</INV>
+				<DAT>04/02/2007</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>motor</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>WMAT36ZZZ2M339261</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>04/02/2007</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="29" id="79" d="04/28/2013" t="17:48:09" od="04/02/2007" do="12/31/3999">
+		<EVC>643</EVC>
+		<SPZ>ZA 895 YF</SPZ>
+		<DZ t="VTD" k="P2V" n="Príves 2osí vaňa"/>
+		<ZNV t="VZ_" k="BG" n="BGV"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="2280" hm_uzi="13720" hm_celk="16000" max_preloz="50" sum_tlak="16000" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="2.7" s="1.8" v="0"/>
+		</RZI>
+		<RZE d="5.2" s="2.5" v="0.85"/>
+		<CUD vyrb="12/27/2004" reg="12/27/2004" pri="04/02/2007" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<AVOR>
+			<z k="OZ_" c="VA" d="04/02/2007"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="04/02/2007"/>
+		</AVUC>
+		<AVSN>
+			<N n="0" pmj="100" pln="5.9" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="0" pmj="100" pln="6.5" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>TK9PNV16C41GT5049</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>04/02/2007</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="30" id="81" d="04/28/2013" t="17:48:09" od="04/02/2007" do="12/31/3999">
+		<EVC>640</EVC>
+		<SPZ>ZA 810 DB</SPZ>
+		<DZ t="VTD" k="KH" n="Hákový naťahovač"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="HK" n="Hyvalift HS 18-53 S"/>
+		<RZI obj_v="11967" hm_poh="11110" hm_uzi="14890" hm_celk="26000" max_preloz="50" sum_tlak="26000" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="5.2" s="2.11" v="0"/>
+		</RZI>
+		<RZE d="8.6" s="2.55" v="3.15"/>
+		<CUD vyrb="12/05/2001" reg="12/05/2001" pri="04/02/2007" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup použitého">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="280">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BE" stanaz="Benkalor Žilina" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="06/22/2007"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="06/22/2007"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="30" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="32" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="1" pmj="100" pln="32" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="34" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+			<N n="1" pmj="0.0166666666666667" pln="1" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="N" n="nakládka"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>WMAT36ZZZ3M339110</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>04/02/2007</DAT>
+				<EXP>12/31/3999</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>d 2866 LF 24</CIS>
+				<INV>(motor)</INV>
+				<DAT>04/02/2007</DAT>
+				<EXP>12/31/3999</EXP>
+				<POZ>motor</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="31" id="82" d="04/28/2013" t="17:48:09" od="07/01/2007" do="12/31/3999">
+		<EVC>658</EVC>
+		<SPZ>ZA 809 DH</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="6871" hm_poh="7800" hm_uzi="6200" hm_celk="14000" max_preloz="50" sum_tlak="14000" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="4.82" s="2.25" v="0"/>
+		</RZI>
+		<RZE d="7.21" s="2.55" v="3.42"/>
+		<CUD vyrb="12/23/2002" reg="12/23/2002" pri="07/01/2007" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup použitého">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="120">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BZ" stanaz="Benkalor Žehňa" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="11/15/2001"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="11/15/2000"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="24" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="24" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="1" pln="0" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>D0836LFL02</CIS>
+				<INV>(motor)</INV>
+				<DAT>07/01/2007</DAT>
+				<EXP>12/31/3999</EXP>
+				<POZ>motor</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>WMAL75ZZZ3Y110592</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>07/01/2007</DAT>
+				<EXP>12/31/3999</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="32" id="83" d="05/23/2018" t="05:59:35" od="04/02/2007" do="12/31/3999">
+		<EVC>644</EVC>
+		<SPZ>ZA 575 YL</SPZ>
+		<DZ t="VTD" k="P1" n="Príves 1osí"/>
+		<ZNV t="VZ_" k="BG" n="BGV"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="1730" hm_uzi="6570" hm_celk="8300" max_preloz="0" sum_tlak="8300" poc_naprav="1" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="4.85" s="2.48" v="1.32"/>
+		<CUD vyrb="09/17/2001" reg="09/17/2001" pri="04/02/2007" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup použitého">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<AVOR>
+			<z k="OZ_" c="VA" d="04/02/2007"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="04/02/2007"/>
+		</AVUC>
+		<AVSN>
+			<N n="0" pmj="100" pln="5.9" m="km" od="03/27/2006" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="0" pmj="100" pln="6.5" m="km" od="03/27/2006" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>TK9KPK100T2BG5073</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>04/02/2007</DAT>
+				<EXP>12/31/3999</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="33" id="84" d="04/28/2013" t="17:48:09" od="04/02/2007" do="12/31/3999">
+		<EVC>641</EVC>
+		<SPZ>ZA 908 YF</SPZ>
+		<DZ t="VTD" k="P3H" n="Príves 3osí hák"/>
+		<ZNV t="VZ_" k="SV" n="Svan"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="5400" hm_uzi="18600" hm_celk="24000" max_preloz="50" sum_tlak="24000" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="8.49" s="2.22" v="0"/>
+		</RZI>
+		<RZE d="10.88" s="2.38" v="1.09"/>
+		<CUD vyrb="05/10/2005" reg="05/10/2005" pri="04/02/2007" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup použitého">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<AVOR>
+			<z k="OZ_" c="VA" d="10/25/2007"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="10/25/2007"/>
+		</AVUC>
+		<AVSN>
+			<N n="0" pmj="0" pln="10" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="0" pmj="0" pln="12" m="km" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>TK9TCH24V51SS5063</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>04/02/2007</DAT>
+				<EXP>12/31/3999</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="34" id="85" d="05/10/2018" t="08:01:13" od="03/12/2007" do="12/31/3999">
+		<EVC>668</EVC>
+		<SPZ>ZA 975 DL</SPZ>
+		<DZ t="VTD" k="KH" n="Hákový naťahovač"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="HK" n="Hyvalift HS 18-53 S"/>
+		<RZI obj_v="11967" hm_poh="11500" hm_uzi="14500" hm_celk="26000" max_preloz="50" sum_tlak="26000" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="8.65" s="2.55" v="3.1"/>
+		<CUD vyrb="01/01/2002" reg="01/01/2002" pri="03/12/2007" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup použitého">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="280">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="VA" d="04/02/2007"/>
+			<z k="OZ_" c="NR" d="12/26/2016"/>
+			<z k="OZ_" c="VA" d="01/01/2017"/>
+			<z k="OZ_" c="NR" d="05/05/2018"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="04/02/2007"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="32" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="32" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LNP" n="letná norma príves"/>
+			</N>
+			<N n="1" pmj="100" pln="34.5" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="34.5" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZNP" n="zimná norma príves"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>D2866LF27</CIS>
+				<INV>(motor)</INV>
+				<DAT>03/12/2007</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>motor</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>WMAH17ZZZ3M359192</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>03/12/2007</DAT>
+				<EXP>12/31/2099</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="36" id="91" d="04/28/2013" t="17:48:09" od="09/06/2007" do="12/31/3999">
+		<EVC>655</EVC>
+		<SPZ>ZA 499 DG</SPZ>
+		<DZ t="VTD" k="OS" n="Osobné"/>
+		<ZNV t="VZ_" k="PE" n="Peugeot"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="2179" hm_poh="1535" hm_uzi="580" hm_celk="2115" max_preloz="0" sum_tlak="2250" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="4.88" s="1.8" v="1.45"/>
+		<CUD vyrb="01/01/2003" reg="01/01/2003" pri="09/06/2007" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup použitého">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="60">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="DO" d="09/06/2007"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="09/06/2007"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="100" pln="6.6" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="6.6" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+		</AVSN>
+		<AVYB>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>4HX</CIS>
+				<INV>(motor)</INV>
+				<DAT>09/06/2007</DAT>
+				<EXP>12/31/2007</EXP>
+				<POZ>motor</POZ>
+			</V>
+			<V>
+				<DRH t="VYB"/>
+				<CIS>VF39D4HXG92101097</CIS>
+				<INV>(podvozok)</INV>
+				<DAT>09/06/2007</DAT>
+				<EXP>12/31/2007</EXP>
+				<POZ>podvozok</POZ>
+			</V>
+		</AVYB>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="41" id="97" d="01/03/2017" t="10:50:50" od="11/01/2004" do="12/31/3999">
+		<EVC>9999</EVC>
+		<SPZ>WAPKA</SPZ>
+		<DZ t="VTD" k="BEC" n="Bez ev.c."/>
+		<ZNV t="VZ_"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="0" hm_uzi="0" hm_celk="0" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="11/01/2004" reg="11/01/2004" pri="11/01/2004" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="20">
+				<POH t="VPD" n="Presun mechanizmu, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="ME" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="ME" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="1" pln="4" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="42" id="101" d="08/17/2015" t="07:40:26" od="01/21/2001" do="12/31/3999">
+		<EVC>64322</EVC>
+		<SPZ>NR 751 BN</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="4580" hm_poh="5840" hm_uzi="4160" hm_celk="10000" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="132" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="3850" s="2050" v="0"/>
+		</RZI>
+		<RZE d="6100" s="2150" v="3400"/>
+		<CUD vyrb="03/14/2007" reg="03/14/2007" pri="01/21/2001" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="100">
+				<POH t="VPD" n="Stroj spodok, Iný mech. ">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="43" id="102" d="08/17/2015" t="07:34:54" od="03/14/2007" do="12/31/3999">
+		<EVC>64325</EVC>
+		<SPZ>NR 128 BP</SPZ>
+		<DZ t="VTD" k="KH" n="Hákový naťahovač"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="11967" hm_poh="10400" hm_uzi="14600" hm_celk="25000" max_preloz="0" sum_tlak="0" poc_naprav="3" spec_k="0" vyk="265" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="8650" s="2550" v="3000"/>
+		<CUD vyrb="03/14/2007" reg="03/14/2007" pri="03/14/2007" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="250">
+				<POH t="VPD" n="Stroj spodok, Iný mech. ">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="VA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="44" id="103" d="05/02/2018" t="06:39:12" od="11/26/2001" do="12/31/3999">
+		<EVC>64366</EVC>
+		<SPZ>NR 484 YD</SPZ>
+		<DZ t="VTD" k="P2V" n="Príves 2osí vaňa"/>
+		<ZNV t="VZ_" k="PA" n="Panav"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="4200" hm_uzi="13800" hm_celk="18000" max_preloz="0" sum_tlak="18000" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="8800" s="2500" v="1140"/>
+		<CUD vyrb="11/26/2001" reg="11/26/2001" pri="11/26/2001" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="45" id="107" d="08/17/2015" t="07:34:24" od="03/30/1988" do="12/31/3999">
+		<EVC>63788</EVC>
+		<SPZ>NR 117 CI</SPZ>
+		<DZ t="VTD" k="VC" n="Cisterna vozidlo"/>
+		<ZNV t="VZ_" k="TA" n="Tatra"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="15825" hm_poh="11360" hm_uzi="11040" hm_celk="22400" max_preloz="0" sum_tlak="0" poc_naprav="3" spec_k="0" vyk="208" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="8360" s="2500" v="3050"/>
+		<CUD vyrb="01/22/1988" reg="01/22/1988" pri="03/30/1988" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="200">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="46" id="113" d="08/17/2015" t="07:38:36" od="01/09/2002" do="12/31/3999">
+		<EVC>64373</EVC>
+		<SPZ>NR 499 GI</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<NAZ>asanacia</NAZ>
+		<RZI obj_v="6871" hm_poh="7500" hm_uzi="6000" hm_celk="13500" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="162" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="5000" s="2250" v="0"/>
+		</RZI>
+		<RZE d="7200" s="2500" v="3670"/>
+		<CUD vyrb="12/05/2001" reg="12/05/2001" pri="01/09/2002" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="130">
+				<POH t="VPD" n="Stroj spodok, Sklápačka">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="47" id="114" d="08/17/2015" t="07:30:34" od="01/09/2002" do="12/31/3999">
+		<EVC>64379</EVC>
+		<SPZ>NR 005 BR</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<NAZ>asanacia</NAZ>
+		<RZI obj_v="6871" hm_poh="7500" hm_uzi="6000" hm_celk="13500" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="162" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="5000" s="2250" v="0"/>
+		</RZI>
+		<RZE d="7200" s="2500" v="3670"/>
+		<CUD vyrb="12/20/2001" reg="12/20/2001" pri="01/09/2002" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="130">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2015"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="48" id="116" d="04/28/2013" t="17:48:09" od="02/01/2012" do="12/31/3999">
+		<EVC>64385</EVC>
+		<SPZ>NR 397 BA</SPZ>
+		<DZ t="VTD" k="MECH" n="Mechanizmus"/>
+		<ZNV t="VZ_" k="AV" n="Avia"/>
+		<TUD t="VZN" k="HS" n="Hyvalift HS 20-49 SK"/>
+		<NAZ>doprava</NAZ>
+		<RZI obj_v="3596" hm_poh="5160" hm_uzi="0" hm_celk="5400" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="60" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="6960" s="2100" v="3170"/>
+		<CUD vyrb="02/20/1984" reg="02/20/1984" pri="02/01/2012" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="70">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="49" id="117" d="05/04/2016" t="09:36:10" od="01/09/2002" do="06/01/3006">
+		<EVC>64372</EVC>
+		<SPZ>NR 004 BR</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<NAZ>asanacia</NAZ>
+		<RZI obj_v="6871" hm_poh="7500" hm_uzi="6000" hm_celk="13500" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="162" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="5000" s="2250" v="0"/>
+		</RZI>
+		<RZE d="7200" s="2500" v="3670"/>
+		<CUD vyrb="11/10/2001" reg="11/10/2001" pri="01/09/2002" vyrz="06/01/3006">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="130">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2013"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="50" id="118" d="07/25/2017" t="10:07:37" od="12/19/2001" do="12/31/3999">
+		<EVC>64369</EVC>
+		<SPZ>NR 784 BP</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<NAZ>asanacia</NAZ>
+		<RZI obj_v="6871" hm_poh="7500" hm_uzi="6000" hm_celk="13500" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="162" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="5000" s="2250" v="0"/>
+		</RZI>
+		<RZE d="7200" s="2500" v="3670"/>
+		<CUD vyrb="08/20/2001" reg="08/20/2001" pri="12/19/2001" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="130">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="KN" stanaz="Kreditka Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2012"/>
+		</AVOR>
+		<AVSN>
+			<N n="1" pmj="100" pln="24" m="km" j="l" od="01/01/2013" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+			<N n="1" pmj="100" pln="25" m="km" j="l" od="01/01/2013" do="01/01/2070">
+				<DRH t="NSP" k="ZN" n="zimná norma"/>
+			</N>
+		</AVSN>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="51" id="120" d="08/17/2015" t="07:42:07" od="01/25/1989" do="12/31/3999">
+		<EVC>63885</EVC>
+		<SPZ>NR 751 CD</SPZ>
+		<DZ t="VTD" k="KR" n="Ramenový nakladač"/>
+		<ZNV t="VZ_" k="LI" n="Liaz"/>
+		<TUD t="VZN" k="RNR" n="Kurta RNR 12"/>
+		<NAZ>asanacia</NAZ>
+		<RZI obj_v="11940" hm_poh="9460" hm_uzi="7540" hm_celk="17000" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="6280" s="2490" v="3750"/>
+		<CUD vyrb="07/10/1987" reg="07/10/1987" pri="01/25/1989" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="170">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="VA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="52" id="121" d="08/17/2015" t="07:33:48" od="01/21/2002" do="12/31/3999">
+		<EVC>64386</EVC>
+		<SPZ>NR 091 BU</SPZ>
+		<DZ t="VTD" k="KH" n="Hákový naťahovač"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<NAZ>asanacia</NAZ>
+		<RZI obj_v="11967" hm_poh="11540" hm_uzi="13460" hm_celk="25000" max_preloz="0" sum_tlak="0" poc_naprav="3" spec_k="0" vyk="301" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="8700" s="2550" v="4000"/>
+		<CUD vyrb="01/10/2002" reg="01/10/2002" pri="01/21/2002" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="250">
+				<POH t="VPD" n="Stroj spodok, Hydr.ruka">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="VA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="53" id="122" d="04/28/2013" t="17:48:09" od="06/21/2002" do="12/31/3999">
+		<EVC>64371</EVC>
+		<SPZ>NR 556 YD</SPZ>
+		<DZ t="VTD" k="P1" n="Príves 1osí"/>
+		<ZNV t="VZ_" k="PA" n="Panav"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="0" hm_poh="4200" hm_uzi="13800" hm_celk="18000" max_preloz="0" sum_tlak="18000" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="9150" s="2500" v="1140"/>
+		<CUD vyrb="01/10/2002" reg="01/10/2002" pri="06/21/2002" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="55" id="124" d="08/17/2015" t="07:38:09" od="02/06/2006" do="12/31/3999">
+		<EVC>64226</EVC>
+		<SPZ>NR 445 DH</SPZ>
+		<DZ t="VTD" k="KR" n="Ramenový nakladač"/>
+		<ZNV t="VZ_" k="ME" n="Mercedes"/>
+		<TUD t="VZN" k="RNR" n="Kurta RNR 12"/>
+		<NAZ>asanacia</NAZ>
+		<RZI obj_v="11967" hm_poh="12440" hm_uzi="0" hm_celk="26000" max_preloz="0" sum_tlak="0" poc_naprav="3" spec_k="0" vyk="295" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK" k="P  SE" j="ks"/>
+			<LOZ_PL d="3830" s="1760" v="0"/>
+		</RZI>
+		<RZE d="7750" s="2500" v="3500"/>
+		<CUD vyrb="12/20/2005" reg="12/20/2005" pri="02/06/2006" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="300">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="VA" d="01/17/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="56" id="125" d="08/17/2015" t="07:37:26" od="12/05/2001" do="12/31/3999">
+		<EVC>64367</EVC>
+		<SPZ>NR 361 BP</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<NAZ>asanacia</NAZ>
+		<RZI obj_v="6871" hm_poh="7500" hm_uzi="6000" hm_celk="13500" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="7200" s="2500" v="3670"/>
+		<CUD vyrb="11/07/2001" reg="11/07/2001" pri="12/05/2001" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="130">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="57" id="126" d="08/17/2015" t="07:35:31" od="11/26/2004" do="12/31/3999">
+		<EVC>64326</EVC>
+		<SPZ>NR 149 BP</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<NAZ>asanacia</NAZ>
+		<RZI obj_v="4580" hm_poh="5840" hm_uzi="4160" hm_celk="10000" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="132" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="3850" s="2050" v="0"/>
+		</RZI>
+		<RZE d="6100" s="2150" v="3400"/>
+		<CUD vyrb="09/07/2001" reg="09/07/2001" pri="11/26/2004" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="100">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="58" id="127" d="08/17/2015" t="07:36:58" od="11/30/2001" do="12/31/3999">
+		<EVC>64328</EVC>
+		<SPZ>NR 257 BP</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<NAZ>asanacia</NAZ>
+		<RZI obj_v="6871" hm_poh="7500" hm_uzi="6000" hm_celk="13500" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="162" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="5000" s="2250" v="0"/>
+		</RZI>
+		<RZE d="7200" s="2500" v="3670"/>
+		<CUD vyrb="10/02/2001" reg="10/02/2001" pri="11/30/2001" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="130">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="59" id="128" d="04/01/2016" t="07:41:33" od="01/09/2002" do="12/31/3999">
+		<EVC>64374</EVC>
+		<SPZ>NR 006 BR</SPZ>
+		<DZ t="VTD" k="KH" n="Hákový naťahovač"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="RN" n="RN 8012"/>
+		<NAZ>asanaca</NAZ>
+		<RZI obj_v="11967" hm_poh="12000" hm_uzi="13000" hm_celk="25000" max_preloz="0" sum_tlak="0" poc_naprav="3" spec_k="0" vyk="228" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="720" s="2700" v="3700"/>
+		<CUD vyrb="11/09/2001" reg="11/09/2001" pri="01/09/2002" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="250">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="VA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="60" id="129" d="04/28/2013" t="17:48:09" od="01/06/1989" do="12/31/3999">
+		<EVC>63898</EVC>
+		<SPZ>NR 023 CR</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="AV" n="Avia"/>
+		<TUD t="VZN" k="KAZ" n="Kafilerická železná"/>
+		<NAZ>doprava</NAZ>
+		<RZI obj_v="3596" hm_poh="3290" hm_uzi="2700" hm_celk="5990" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="60" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="6427" s="2260" v="274.5"/>
+		<CUD vyrb="12/20/1988" reg="12/20/1988" pri="01/06/1989" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="70">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="61" id="131" d="04/28/2013" t="17:48:09" od="01/09/2002" do="12/31/3999">
+		<EVC>64377</EVC>
+		<SPZ>NR 987 YK</SPZ>
+		<DZ t="VTD" k="P2V" n="Príves 2osí vaňa"/>
+		<ZNV t="VZ_" k="PA" n="Panav"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="4200" hm_uzi="13800" hm_celk="18000" max_preloz="0" sum_tlak="18000" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="8800" s="2500" v="1140"/>
+		<CUD vyrb="12/23/2001" reg="12/23/2001" pri="01/09/2002" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="62" id="133" d="04/28/2013" t="17:48:09" od="03/03/1994" do="12/31/3999">
+		<EVC>64018</EVC>
+		<SPZ>NR 101 YE</SPZ>
+		<DZ t="VTD" k="P1" n="Príves 1osí"/>
+		<ZNV t="VZ_" k="PA" n="Panav"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="1730" hm_uzi="6570" hm_celk="8300" max_preloz="0" sum_tlak="0" poc_naprav="1" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="4850" s="2475" v="1315"/>
+		<CUD vyrb="02/10/1994" reg="02/10/1994" pri="03/03/1994" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="63" id="141" d="08/17/2015" t="07:39:32" od="04/11/2006" do="12/31/3999">
+		<EVC>64395</EVC>
+		<SPZ>NR 590 GC</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<NAZ>doprava</NAZ>
+		<RZI obj_v="3498" hm_poh="0" hm_uzi="8930" hm_celk="18000" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="213" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK" k="P  SE" j="ks"/>
+			<LOZ_PL d="5000" s="2250" v="0"/>
+		</RZI>
+		<RZE d="5070" s="1870" v="1465"/>
+		<CUD vyrb="06/28/2005" reg="06/28/2005" pri="04/11/2006" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="150">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="64" id="142" d="08/18/2014" t="14:47:02" od="04/21/2006" do="12/31/3999">
+		<EVC>64396</EVC>
+		<SPZ>NR 105 AY</SPZ>
+		<DZ t="VTD" k="OS" n="Osobné"/>
+		<ZNV t="VZ_" k="HN" n="Honda"/>
+		<TUD t="VZN"/>
+		<NAZ>doprava</NAZ>
+		<RZI obj_v="1396" hm_poh="1115" hm_uzi="495" hm_celk="1610" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK" k="0" j="m3"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="4425" s="1695" v="1440"/>
+		<CUD vyrb="09/10/1998" reg="09/10/1998" pri="04/21/2006" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="50">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Benzín N95 ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="65" id="143" d="08/17/2015" t="07:44:56" od="10/03/2001" do="12/31/3999">
+		<EVC>64323</EVC>
+		<SPZ>NR 936 BN</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<NAZ>asanacia</NAZ>
+		<RZI obj_v="4580" hm_poh="5840" hm_uzi="4160" hm_celk="10000" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="132" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="3850" s="2050" v="0"/>
+		</RZI>
+		<RZE d="6100" s="2150" v="3400"/>
+		<CUD vyrb="07/09/2001" reg="07/09/2001" pri="10/03/2001" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="100">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="66" id="144" d="02/28/2017" t="15:05:58" od="10/22/2001" do="12/31/3999">
+		<EVC>64324</EVC>
+		<SPZ>NR 381 BO</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="4580" hm_poh="5840" hm_uzi="4160" hm_celk="10000" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="132" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="3850" s="2050" v="0"/>
+		</RZI>
+		<RZE d="6100" s="2150" v="3400"/>
+		<CUD vyrb="07/08/2001" reg="07/08/2001" pri="10/22/2001" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="100">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BZ" stanaz="Benkalor Žehňa" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2012"/>
+			<z k="OZ_" c="MA" d="02/06/2017"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="02/06/2017"/>
+		</AVUC>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="67" id="147" d="04/28/2013" t="17:48:09" od="07/12/1996" do="12/31/3999">
+		<EVC>64019</EVC>
+		<SPZ>NR 748 YB</SPZ>
+		<DZ t="VTD" k="P1" n="Príves 1osí"/>
+		<ZNV t="VZ_" k="PA" n="Panav"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="1730" hm_uzi="6570" hm_celk="8300" max_preloz="0" sum_tlak="8300" poc_naprav="1" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="4850" s="2475" v="2630"/>
+		<CUD vyrb="05/10/1996" reg="05/10/1996" pri="07/12/1996" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="68" id="149" d="04/28/2013" t="17:48:09" od="03/08/2006" do="12/31/3999">
+		<EVC>64380</EVC>
+		<SPZ>NR 869 YI</SPZ>
+		<DZ t="VTD" k="P2V" n="Príves 2osí vaňa"/>
+		<ZNV t="VZ_" k="PA" n="Panav"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="4080" hm_uzi="0" hm_celk="24000" max_preloz="0" sum_tlak="24000" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="7850" s="2470" v="0"/>
+		</RZI>
+		<RZE d="10000" s="2470" v="1270"/>
+		<CUD vyrb="01/30/2006" reg="01/30/2006" pri="03/08/2006" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="69" id="151" d="04/28/2013" t="17:48:09" od="06/08/1992" do="12/31/3999">
+		<EVC>64225</EVC>
+		<SPZ>NR 183 YA</SPZ>
+		<DZ t="VTD" k="P3V" n="Príves 3osí vaňa"/>
+		<ZNV t="VZ_" k="PA" n="Panav"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="0" hm_uzi="7850" hm_celk="34000" max_preloz="0" sum_tlak="34000" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="10420" s="2500" v="3850"/>
+		<CUD vyrb="01/22/1992" reg="01/22/1992" pri="06/08/1992" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="70" id="152" d="08/17/2015" t="07:45:54" od="12/01/2001" do="12/31/3999">
+		<EVC>8888</EVC>
+		<SPZ>NR 983 ED</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="6871" hm_poh="0" hm_uzi="8600" hm_celk="18000" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="206" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="4700" s="2100" v="0"/>
+		</RZI>
+		<RZE d="7820" s="2550" v="3700"/>
+		<CUD vyrb="08/13/2000" reg="08/13/2000" pri="12/01/2001" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="130">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="KN" stanaz="Kreditka Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="71" id="153" d="08/17/2015" t="07:45:27" od="11/22/2001" do="12/31/3999">
+		<EVC>99990</EVC>
+		<SPZ>NR 982 ED</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="6871" hm_poh="0" hm_uzi="7800" hm_celk="11900" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="162" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="4210" s="2120" v="0"/>
+		</RZI>
+		<RZE d="6820" s="2410" v="3020"/>
+		<CUD vyrb="05/26/2000" reg="05/26/2000" pri="11/22/2001" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="130">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="KN" stanaz="Kreditka Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="72" id="164" d="08/17/2015" t="07:44:36" od="03/01/2002" do="12/31/3999">
+		<EVC>7777</EVC>
+		<SPZ>NR 903 ED</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="4580" hm_poh="7130" hm_uzi="6870" hm_celk="14000" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="162" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="4820" s="2250" v="0"/>
+		</RZI>
+		<RZE d="7210" s="2550" v="3420"/>
+		<CUD vyrb="03/08/1994" reg="03/08/1994" pri="03/01/2002" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="130">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="73" id="167" d="08/17/2015" t="07:44:14" od="03/01/2002" do="12/31/3999">
+		<EVC>206414</EVC>
+		<SPZ>NR 896 CU</SPZ>
+		<DZ t="VTD" k="VC" n="Cisterna vozidlo"/>
+		<ZNV t="VZ_" k="TA" n="Tatra"/>
+		<TUD t="VZN"/>
+		<NAZ>asanacia</NAZ>
+		<RZI obj_v="15825" hm_poh="11360" hm_uzi="11040" hm_celk="22400" max_preloz="0" sum_tlak="0" poc_naprav="3" spec_k="0" vyk="208" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="836" s="2500" v="3050"/>
+		<CUD vyrb="01/05/1989" reg="01/05/1989" pri="03/01/2002" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="160">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="74" id="169" d="04/28/2013" t="17:48:09" od="04/01/2007" do="12/31/3999">
+		<EVC>10</EVC>
+		<SPZ>1</SPZ>
+		<DZ t="VTD" k="BEC" n="Bez ev.c."/>
+		<ZNV t="VZ_"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="0" hm_uzi="0" hm_celk="0" max_preloz="0" sum_tlak="0" poc_naprav="0" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="04/01/2007" reg="04/01/2007" pri="04/01/2007" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="75" id="172" d="08/17/2015" t="07:32:18" od="06/01/2007" do="12/31/3999">
+		<EVC>9513</EVC>
+		<SPZ>NR 024 EA</SPZ>
+		<DZ t="VTD" k="KH" n="Hákový naťahovač"/>
+		<ZNV t="VZ_" k="RE" n="Renault"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="10837" hm_poh="0" hm_uzi="12200" hm_celk="26000" max_preloz="0" sum_tlak="0" poc_naprav="3" spec_k="0" vyk="302" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="8850" s="2550" v="3200"/>
+		<CUD vyrb="05/01/2007" reg="05/01/2007" pri="06/01/2007" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="300">
+				<POH t="VPD" n="Stroj spodok, Hydr.ruka">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="VA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="76" id="173" d="08/17/2015" t="07:43:27" od="12/12/2001" do="12/31/3999">
+		<EVC>332211</EVC>
+		<SPZ>NR 881 CU</SPZ>
+		<DZ t="VTD" k="VC" n="Cisterna vozidlo"/>
+		<ZNV t="VZ_" k="TA" n="Tatra"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="15825" hm_poh="11360" hm_uzi="0" hm_celk="22400" max_preloz="0" sum_tlak="0" poc_naprav="3" spec_k="0" vyk="208" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="8360" s="2500" v="3050"/>
+		<CUD vyrb="12/12/2001" reg="12/12/2001" pri="12/12/2001" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="220">
+				<POH t="VPD" n="Stroj spodok, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="77" id="175" d="08/17/2015" t="07:39:59" od="01/01/2009" do="12/31/3999">
+		<EVC>637012</EVC>
+		<SPZ>NR 634 FB</SPZ>
+		<DZ t="VTD" k="KH" n="Hákový naťahovač"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="HS" n="Hyvalift HS 20-49 SK"/>
+		<NAZ>asanácia</NAZ>
+		<RZI obj_v="10518" hm_poh="10460" hm_uzi="15540" hm_celk="26000" max_preloz="0" sum_tlak="0" poc_naprav="3" spec_k="0" vyk="287" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="8000" s="2550" v="3200"/>
+		<CUD vyrb="06/15/2008" reg="06/15/2008" pri="01/01/2009" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="250">
+				<POH t="VPD" n="Stroj spodok, Hydr.ruka">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="VA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="78" id="176" d="08/17/2015" t="07:33:12" od="04/01/2011" do="12/31/3999">
+		<EVC>94782</EVC>
+		<SPZ>NR 081 GA</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="6871" hm_poh="0" hm_uzi="8930" hm_celk="18000" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="213" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="5000" s="2230" v="0"/>
+		</RZI>
+		<RZE d="7300" s="2550" v="3900"/>
+		<CUD vyrb="04/01/2011" reg="04/01/2011" pri="04/01/2011" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="130">
+				<POH t="VPD" n="Stroj spodok, Iný mech. ">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="79" id="177" d="08/17/2015" t="07:36:29" od="06/01/2011" do="12/31/3999">
+		<EVC>6301</EVC>
+		<SPZ>NR 216 GB</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="6871" hm_poh="0" hm_uzi="9350" hm_celk="18000" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="213" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="4750" s="2380" v="0"/>
+		</RZI>
+		<RZE d="7500" s="2550" v="3550"/>
+		<CUD vyrb="06/01/2011" reg="06/01/2011" pri="06/01/2011" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="130">
+				<POH t="VPD" n="Stroj spodok, Sklápačka">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2012"/>
+		</AVOR>
+		<AVSN>
+			<N n="1" pmj="0" pln="30" m="km" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="LN" n="letná norma"/>
+			</N>
+		</AVSN>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="80" id="178" d="04/28/2013" t="17:48:09" od="05/01/2011" do="12/31/3999">
+		<EVC>3745</EVC>
+		<SPZ>NR 309 EM</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="AV" n="Avia"/>
+		<TUD t="VZN" k="VAL"/>
+		<RZI obj_v="3596" hm_poh="2900" hm_uzi="0" hm_celk="5990" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="60" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="3521" s="2140" v="0"/>
+		</RZI>
+		<RZE d="6392" s="2246" v="3057"/>
+		<CUD vyrb="05/01/2011" reg="05/01/2011" pri="05/01/2011" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="70">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="81" id="179" d="04/28/2013" t="17:48:09" od="12/01/2010" do="12/31/3999">
+		<EVC>4444</EVC>
+		<SPZ>NR 053 YM</SPZ>
+		<DZ t="VTD" k="CN" n="Cisterna náves"/>
+		<ZNV t="VZ_" k="MG" n="Magyar"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="6750" hm_uzi="27250" hm_celk="34000" max_preloz="0" sum_tlak="0" poc_naprav="3" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="11598" s="2550" v="3620"/>
+		<CUD vyrb="01/01/2010" reg="07/01/2010" pri="12/01/2010" vyrz="12/31/3999">
+			<F_PRI t="VZV"/>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="82" id="180" d="04/28/2013" t="17:48:09" od="01/17/2012" do="12/31/3999">
+		<EVC>665322</EVC>
+		<SPZ>NR 864 YJ</SPZ>
+		<DZ t="VTD" k="P1" n="Príves 1osí"/>
+		<ZNV t="VZ_" k="BG" n="BGV"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="1730" hm_uzi="0" hm_celk="8300" max_preloz="0" sum_tlak="0" poc_naprav="1" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="4850" s="2475" v="1315"/>
+		<CUD vyrb="06/28/1995" reg="06/28/1995" pri="01/17/2012" vyrz="12/31/3999">
+			<F_PRI t="VZV"/>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="83" id="181" d="04/28/2013" t="17:48:09" od="04/05/2011" do="12/31/3999">
+		<EVC>665328</EVC>
+		<SPZ>NR 034 YL</SPZ>
+		<DZ t="VTD" k="P2V" n="Príves 2osí vaňa"/>
+		<ZNV t="VZ_" k="PA" n="Panav"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="0" hm_poh="3640" hm_uzi="0" hm_celk="18000" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="5200" s="2121" v="0"/>
+		</RZI>
+		<RZE d="8030" s="2500" v="1200"/>
+		<CUD vyrb="01/13/2000" reg="04/05/2011" pri="04/05/2011" vyrz="12/31/3999">
+			<F_PRI t="VZV"/>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="84" id="182" d="08/17/2015" t="07:39:04" od="09/19/2011" do="12/31/3999">
+		<EVC>666587</EVC>
+		<SPZ>NR 538 FP</SPZ>
+		<DZ t="VTD" k="TA" n="Ťahač"/>
+		<ZNV t="VZ_" k="SC" n="Scania"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="11705" hm_poh="8120" hm_uzi="0" hm_celk="18000" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="309" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="5935" s="2550" v="3883"/>
+		<CUD vyrb="12/17/2009" reg="01/03/2012" pri="09/19/2011" vyrz="12/31/3999">
+			<F_PRI t="VZV"/>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="1200">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta , -- ADBLUE">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="VA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="85" id="183" d="04/28/2013" t="17:48:09" od="08/18/2009" do="12/31/3999">
+		<EVC>65128</EVC>
+		<SPZ>HON-UNC </SPZ>
+		<DZ t="VTD" k="MECH" n="Mechanizmus"/>
+		<ZNV t="VZ_" k="UNC050"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="0" hm_uzi="0" hm_celk="0" max_preloz="0" sum_tlak="0" poc_naprav="0" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="02/02/2012" reg="08/18/2009" pri="08/18/2009" vyrz="12/31/3999">
+			<F_PRI t="VZV"/>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="60">
+				<POH t="VPD" n="Stroj spodok, Iný mech. ">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="86" id="184" d="01/03/2017" t="14:07:04" od="01/01/2011" do="12/31/3999">
+		<EVC>65135</EVC>
+		<SPZ>BANCALCAR</SPZ>
+		<DZ t="VTD" k="MECH" n="Mechanizmus"/>
+		<ZNV t="VZ_" k="DESTA"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="0" hm_uzi="0" hm_celk="0" max_preloz="0" sum_tlak="0" poc_naprav="0" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="01/01/2011" reg="01/01/2011" pri="01/01/2011" vyrz="12/31/3999">
+			<F_PRI t="VZV"/>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="30">
+				<POH t="VPD" n="Stroj spodok, Iný mech. ">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVSN>
+			<N n="1" pmj="1" pln="7" m="mth" j="l" od="01/01/2012" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="87" id="185" d="04/28/2013" t="17:48:09" od="04/01/2007" do="12/31/3999">
+		<EVC>20</EVC>
+		<SPZ>WAP</SPZ>
+		<DZ t="VTD" k="WAP" n="Wapka"/>
+		<ZNV t="VZ_" k="VB" n="VAB"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="0" hm_uzi="0" hm_celk="0" max_preloz="0" sum_tlak="0" poc_naprav="0" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="04/01/2007" reg="04/01/2007" pri="04/01/2007" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="10">
+				<POH t="VPD" n="Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="88" id="188" d="12/13/2013" t="11:34:49" od="01/01/2012" do="12/31/3999">
+		<EVC>112233</EVC>
+		<SPZ>KOMPRESOR</SPZ>
+		<DZ t="VTD" k="MECH" n="Mechanizmus"/>
+		<ZNV t="VZ_"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="0" hm_uzi="0" hm_celk="0" max_preloz="0" sum_tlak="0" poc_naprav="0" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="01/01/2012" reg="01/01/2012" pri="01/01/2012" vyrz="12/31/3999">
+			<F_PRI t="VZV"/>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="50">
+				<POH t="VPD" n="Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<AVSN>
+			<N n="1" pmj="0" pln="5" m="mth" j="l" od="01/01/2012" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="89" id="189" d="04/28/2013" t="17:48:09" od="01/01/2012" do="12/31/3999">
+		<EVC>6985</EVC>
+		<SPZ>POLIEVAK</SPZ>
+		<DZ t="VTD" k="MECH" n="Mechanizmus"/>
+		<ZNV t="VZ_" k="TA" n="Tatra"/>
+		<TUD t="VZN" k="CAS" n="Cisterna"/>
+		<RZI obj_v="0" hm_poh="0" hm_uzi="0" hm_celk="0" max_preloz="0" sum_tlak="0" poc_naprav="0" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="01/01/2012" reg="01/01/2012" pri="01/01/2012" vyrz="12/31/3999">
+			<F_PRI t="VZV"/>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="100">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="90" id="190" d="04/28/2013" t="17:48:09" od="02/01/2011" do="12/31/3999">
+		<EVC>659873</EVC>
+		<SPZ>DESTA - M</SPZ>
+		<DZ t="VTD" k="MECH" n="Mechanizmus"/>
+		<ZNV t="VZ_" k="DESTA"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="0" hm_uzi="0" hm_celk="0" max_preloz="0" sum_tlak="0" poc_naprav="0" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="01/01/2011" reg="02/01/2011" pri="02/01/2011" vyrz="12/31/3999">
+			<F_PRI t="VZV"/>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="30">
+				<POH t="VPD" n="Stroj spodok, Iný mech. ">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVSN>
+			<N n="1" pmj="1" pln="7" m="mth" j="l" od="02/01/2011" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="91" id="191" d="04/28/2013" t="17:48:09" od="11/01/2012" do="12/31/3999">
+		<EVC>555455</EVC>
+		<SPZ>DESTA - V</SPZ>
+		<DZ t="VTD" k="MECH" n="Mechanizmus"/>
+		<ZNV t="VZ_" k="DESTA"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="0" hm_uzi="0" hm_celk="0" max_preloz="0" sum_tlak="0" poc_naprav="0" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="11/01/2011" reg="11/01/2011" pri="11/01/2012" vyrz="12/31/3999">
+			<F_PRI t="VZV"/>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="30">
+				<POH t="VPD" n="Stroj spodok, Iný mech. ">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="92" id="192" d="12/13/2013" t="11:50:17" od="10/01/2013" do="12/31/3999">
+		<EVC>62145</EVC>
+		<SPZ>MASTER</SPZ>
+		<DZ t="VTD" k="MECH" n="Mechanizmus"/>
+		<ZNV t="VZ_"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="0" hm_uzi="0" hm_celk="0" max_preloz="0" sum_tlak="0" poc_naprav="0" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="10/01/2013" reg="10/01/2013" pri="10/01/2013" vyrz="12/31/3999">
+			<F_PRI t="VZV"/>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="36">
+				<POH t="VPD" n="Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="93" id="193" d="08/18/2014" t="14:47:12" od="07/01/2014" do="12/31/3999">
+		<EVC>66254</EVC>
+		<SPZ>NR 368 EF</SPZ>
+		<DZ t="VTD" k="OS" n="Osobné"/>
+		<ZNV t="VZ_" k="RE" n="Renault"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="0" hm_uzi="0" hm_celk="0" max_preloz="0" sum_tlak="0" poc_naprav="0" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="08/01/2002" reg="07/01/2014" pri="07/01/2014" vyrz="12/31/3999">
+			<F_PRI t="VZV"/>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="50">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="94" id="194" d="08/17/2015" t="07:43:52" od="05/01/2015" do="12/31/3999">
+		<EVC>66514</EVC>
+		<SPZ>NR 881 HO</SPZ>
+		<DZ t="VTD" k="KV" n="Vyklápací kontajner"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="0" hm_poh="0" hm_uzi="0" hm_celk="0" max_preloz="0" sum_tlak="0" poc_naprav="0" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="05/01/2013" pri="05/01/2015" vyrz="12/31/3999">
+			<F_PRI t="VZV"/>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="130">
+				<POH t="VPD"/>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="MA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="95" id="195" d="09/22/2015" t="11:29:40" od="09/10/2015" do="12/31/3999">
+		<EVC>0</EVC>
+		<SPZ>ZA 978 YJ</SPZ>
+		<DZ t="VTD" k="P2H" n="Príves 2osí hák"/>
+		<ZNV t="VZ_" k="BG" n="BGV"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="0" hm_poh="3650" hm_uzi="14350" hm_celk="18000" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="6" s="0.78" v="0"/>
+		</RZI>
+		<RZE d="8.2" s="2.45" v="1.08"/>
+		<CUD vyrb="09/10/2015" reg="09/10/2015" pri="09/10/2015" vyrz="12/31/3999">
+			<F_PRI t="VZV"/>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="96" id="196" d="04/01/2016" t="07:39:40" od="01/09/2002" do="12/31/3999">
+		<EVC>64376</EVC>
+		<SPZ>NR 405 IK</SPZ>
+		<DZ t="VTD" k="KH" n="Hákový naťahovač"/>
+		<ZNV t="VZ_" k="MN" n="Man"/>
+		<TUD t="VZN" k="RN" n="RN 8012"/>
+		<NAZ>asanaca</NAZ>
+		<RZI obj_v="11967" hm_poh="12000" hm_uzi="13000" hm_celk="25000" max_preloz="0" sum_tlak="0" poc_naprav="3" spec_k="0" vyk="228" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="720" s="2700" v="3700"/>
+		<CUD vyrb="11/09/2001" reg="11/09/2001" pri="01/09/2002" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="250">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BN" stanaz="Benkalor Nitra" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="VA" d="01/01/2012"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="97" id="204" d="01/03/2017" t="14:31:35" od="11/01/2004" do="12/31/3999">
+		<EVC>112</EVC>
+		<SPZ>VZV001</SPZ>
+		<DZ t="VTD" k="VV" n="V vozík"/>
+		<ZNV t="VZ_" k="BC" n="Bancacar"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="0" hm_uzi="0" hm_celk="0" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="11/01/2004" reg="11/01/2004" pri="11/01/2004" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="40">
+				<POH t="VPD" n="Presun mechanizmu, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="ME" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="ME" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="1" pln="7" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="98" id="205" d="01/05/2017" t="13:58:03" od="11/01/2004" do="12/31/3999">
+		<EVC>1121</EVC>
+		<SPZ>VZV001</SPZ>
+		<DZ t="VTD" k="VV" n="V vozík"/>
+		<ZNV t="VZ_" k="BC" n="Bancacar"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="0" hm_uzi="0" hm_celk="0" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="11/01/2004" reg="11/01/2004" pri="11/01/2004" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="40">
+				<POH t="VPD" n="Presun mechanizmu, Čerpadlo">
+				</POH>
+				<PHM t="VDP" n="Palivo (benzín, nafta, LPG, CNG ...), -- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+			</N>
+		</NAV>
+		<POZ>
+			<P>
+				<E n="Text">VAS, s.r.o.</E>
+			</P>
+		</POZ>
+		<AVOR>
+			<z k="OZ_" c="ME" d="11/01/2004"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="ME" d="11/01/2004"/>
+		</AVUC>
+		<AVSN>
+			<N n="1" pmj="1" pln="7" m="mth" j="l" od="01/01/2001" do="01/01/2070">
+				<DRH t="NSP" k="M" n="manipulácia"/>
+			</N>
+		</AVSN>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="99" id="206" d="02/28/2017" t="14:50:49" od="02/01/2017" do="12/31/3999">
+		<EVC>12</EVC>
+		<SPZ>ZA 071 YL</SPZ>
+		<DZ t="VTD" k="P2H" n="Príves 2osí hák"/>
+		<ZNV t="VZ_" k="BG" n="BGV"/>
+		<TUD t="VZN" k="KAN" n="Kafilerická nerezová"/>
+		<RZI obj_v="0" hm_poh="6300" hm_uzi="11700" hm_celk="18000" max_preloz="0" sum_tlak="0" poc_naprav="0" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="02/01/2017" reg="02/01/2017" pri="02/01/2017" vyrz="12/31/3999">
+			<F_PRI t="VZV"/>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<AVOR>
+			<z k="OZ_" c="VA" d="02/01/2017"/>
+		</AVOR>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="100" id="207" d="01/19/2018" t="11:12:50" od="08/28/2017" do="12/31/3999">
+		<EVC>11</EVC>
+		<SPZ>ZA 302 HI</SPZ>
+		<DZ t="VTD" k="KR" n="Ramenový nakladač"/>
+		<ZNV t="VZ_" k="SC" n="Scania"/>
+		<TUD t="VZN" k="RNR" n="Kurta RNR 12"/>
+		<RZI obj_v="12742" hm_poh="10834" hm_uzi="7166" hm_celk="18000" max_preloz="0" sum_tlak="0" poc_naprav="2" spec_k="0" vyk="302" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="08/28/2017" reg="08/28/2017" pri="08/28/2017" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="300">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="-- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BE" stanaz="Benkalor Žilina" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="VA" d="10/03/2017"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="10/03/2017"/>
+		</AVUC>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="101" id="208" d="01/19/2018" t="11:12:22" od="08/28/2017" do="12/31/3999">
+		<EVC>13</EVC>
+		<SPZ>ZA 537 HJ</SPZ>
+		<DZ t="VTD" k="KH" n="Hákový naťahovač"/>
+		<ZNV t="VZ_" k="SC" n="Scania"/>
+		<TUD t="VZN" k="HS" n="Hyvalift HS 20-49 SK"/>
+		<RZI obj_v="0" hm_poh="0" hm_uzi="0" hm_celk="0" max_preloz="0" sum_tlak="0" poc_naprav="0" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="08/28/2017" reg="08/28/2017" pri="08/28/2017" vyrz="12/31/3999">
+			<F_PRI t="VZV" n="Nákup nového">
+			</F_PRI>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<NAV>
+			<N c="1" obj="300">
+				<POH t="VPD" n="Stroj spodok">
+				</POH>
+				<PHM t="VDP" n="-- Nafta ">
+				</PHM>
+				<PHJ t="JDN" k="L" n="Litr"/>
+				<STT stakod="BE" stanaz="Benkalor Žilina" zbokod="N" zbonaz="Nafta" jdnkod="L" jdnnaz="Litr" jdnzkr="l"/>
+			</N>
+		</NAV>
+		<AVOR>
+			<z k="OZ_" c="VA" d="08/28/2017"/>
+		</AVOR>
+		<AVUC>
+			<z k="UZ_" c="VO" d="08/28/2017"/>
+		</AVUC>
+		<VYV>0</VYV>
+	</REC>
+	<REC p="102" id="210" d="05/02/2018" t="06:41:19" od="04/01/2018" do="12/31/3999">
+		<EVC>69654</EVC>
+		<SPZ>ZA 858 YL</SPZ>
+		<DZ t="VTD" k="P2H" n="Príves 2osí hák"/>
+		<ZNV t="VZ_" k="PA" n="Panav"/>
+		<TUD t="VZN"/>
+		<RZI obj_v="0" hm_poh="0" hm_uzi="0" hm_celk="0" max_preloz="0" sum_tlak="0" poc_naprav="0" spec_k="0" vyk="0" jhv="kg" jr="m" jvm="kW" jom="ccm">
+			<SPEC_K_DRH t="VSK"/>
+			<LOZ_PL d="0" s="0" v="0"/>
+		</RZI>
+		<RZE d="0" s="0" v="0"/>
+		<CUD vyrb="01/01/2018" reg="01/01/2018" pri="04/01/2018" vyrz="12/31/3999">
+			<F_PRI t="VZV"/>
+			<F_VYRZ t="VVV"/>
+		</CUD>
+		<VYV>0</VYV>
+	</REC>
+</RECS>

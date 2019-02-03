@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="windows-1250"?>
+   <DMDEXPORTY>
+   	<INFO>
+		<SUBJECT>Katalog vozidel pro Android</SUBJECT>
+		<AUTHOR>O.Hobl </AUTHOR>
+		<EMAIL>hobl@hoblapech.cz  </EMAIL>
+		<VERSION>1.00.00  </VERSION>
+		<FILENAME>katvozandroid.xml</FILENAME>
+	</INFO>
+	<ORIGIN>
+		<PODNIK> Universal  </PODNIK>
+		<AKTROK> 2013 </AKTROK>
+		<AKTMES> 02 </AKTMES>
+		<AFILTER>ZZ </AFILTER>
+		<DATE>30.1.2013 </DATE>
+		<SESTAVAN>1 </SESTAVAN>
+		<SESTAVATX><text>Katalog vozidel pro Android</text></SESTAVATX>
+		<POPIS>Katalog vozidel pro Android - pomoci EXML definice
+		</POPIS>
+		<ORIGTIME>695559204 </ORIGTIME>
+		<PARAMS>0 </PARAMS>
+	</ORIGIN>
+
+     <DEFEXPORTU>
+       <TYP>VOZIDLA</TYP>
+
+
+       <VETVEZAKAZANE>
+         <V>RECS/REC/SAZ_FAKT_I</V>
+         <V>RECS/REC/SAZ_FAKT_E</V>
+
+         <V>RECS/REC/SEC</V>
+         <V>RECS/REC/TER</V>
+
+         <V>RECS/REC/DPH</V>
+         <V>RECS/REC/PRENESENADPH</V>
+         <V>RECS/REC/SML_FAKT_E</V>
+         <V>RECS/REC/SML_FAKT_I</V>
+         <V>RECS/REC/IOD</V>
+         <V>RECS/REC/CUD/F_PRI/f</V>
+         <V>RECS/REC/CUD/F_PRI/B</V>
+         <V>RECS/REC/CUD/F_VYRZ/f</V>
+         <V>RECS/REC/CUD/F_VYRZ/B</V>
+
+         <V>RECS/REC/NAV/N/POH/F</V>
+         <V>RECS/REC/NAV/N/POH/B</V>
+         <V>RECS/REC/NAV/N/PHM/F</V>
+         <V>RECS/REC/NAV/N/PHM/B</V>
+
+         <V>RECS/REC/AVHS</V>
+         <V>RECS/REC/MER</V>
+         <V>RECS/REC/ADOC</V>
+
+
+         </VETVEZAKAZANE>
+
+     </DEFEXPORTU>
+   </DMDEXPORTY> 

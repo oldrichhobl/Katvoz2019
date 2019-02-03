@@ -5,9 +5,15 @@ import { RouteReuseStrategy } from '@angular/router';
 import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 import { SplashScreen } from '@ionic-native/splash-screen/ngx';
 import { StatusBar } from '@ionic-native/status-bar/ngx';
+import { IonicStorageModule } from '@ionic/storage';
 
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
+import { HttpModule } from '@angular/http'
+import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { GlobalService } from "./global.service";
+import { HermesProvider } from './hermes';
+import { ThemeService } from './theme.service';
 
 @NgModule({
   declarations: [AppComponent],
@@ -15,12 +21,22 @@ import { AppRoutingModule } from './app-routing.module';
   imports: [
     BrowserModule,
     IonicModule.forRoot(),
-    AppRoutingModule
+    AppRoutingModule,
+    HttpModule,
+    HttpClientModule,
+
+    IonicStorageModule.forRoot({
+      name: '__mydb',
+         driverOrder: ['indexeddb', 'sqlite', 'websql']
+    }) 
   ],
   providers: [
     StatusBar,
     SplashScreen,
-    { provide: RouteReuseStrategy, useClass: IonicRouteStrategy }
+    { provide: RouteReuseStrategy, useClass: IonicRouteStrategy },
+    HermesProvider,
+    GlobalService,
+    ThemeService
   ],
   bootstrap: [AppComponent]
 })

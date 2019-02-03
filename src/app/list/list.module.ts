@@ -3,7 +3,8 @@ import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { IonicModule } from '@ionic/angular';
 import { RouterModule } from '@angular/router';
-
+import { GlobalService } from "../global.service";
+import { HermesProvider } from '../hermes';
 import { ListPage } from './list.page';
 
 @NgModule({
@@ -18,6 +19,10 @@ import { ListPage } from './list.page';
       }
     ])
   ],
+  providers: [
+
+  ],
+
   declarations: [ListPage]
 })
 export class ListPageModule {}
