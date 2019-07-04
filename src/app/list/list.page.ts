@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { IonicModule,Events } from '@ionic/angular';
+import { ActivatedRoute, Router } from '@angular/router';
 import { GlobalService } from "../global.service";
 import { HermesProvider } from '../hermes';
 
@@ -24,11 +25,21 @@ export class ListPage implements OnInit {
   ];
   searchTerm: string = '';
   public items: Array<{ title: string; note: string; id:number; icon: string }> = [];
-
-  constructor( public events: Events,
+  
+  data: any;   // data predavana z home
+  constructor(  public events: Events,
+                private route: ActivatedRoute, private router: Router,
                 public global: GlobalService,
                 public hermes: HermesProvider) {
     console.log("** constructor na list.page.ts **" );
+    this.route.queryParams.subscribe(params => {
+      console.log("route queryParams ");
+      if (this.router.getCurrentNavigation().extras.state) {
+        this.data = this.router.getCurrentNavigation().extras.state.user;
+      }
+    });
+
+
   /*
     for (let i = 1; i < hermes.items.length; i++) {
       this.items.push({
@@ -42,9 +53,11 @@ export class ListPage implements OnInit {
   }
 
   ngOnInit() {
-    console.log(" ngOnInit na list.page.ts");
+    console.log(" ngOnInit na list.page.ts ");
     console.log("Global.v " + this.global.version);  
     console.log("Hermes.v " + this.hermes.version);  
+    
+
     // data nactem az po udalosti  data:loaded
     // second page (listen for the user created event)
     this.events.subscribe('data:loaded', (user, time) => {
@@ -53,7 +66,7 @@ export class ListPage implements OnInit {
       // ted konecne nactem
       ///this.selectNode('//RECS[1]/R');
          console.log(this.hermes.items.length);
-    this.items = this.hermes.items;
+      this.items = this.hermes.items;
 
       });   
  
