@@ -18,7 +18,7 @@ import { GlobalService } from "./global.service";
   providedIn: 'root'
 })
 export class HermesProvider {
-  public version = '2.2.19';
+  public version = '15.7.19';
   public loaded: any = false; 
   public XMLdata: any;
   public XSLdata: any;

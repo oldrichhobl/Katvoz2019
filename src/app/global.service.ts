@@ -11,7 +11,7 @@ import { Storage } from '@ionic/storage';
 })
 export class GlobalService {
 
-  public version = '02.02B.2019';
+  public version = '15.07A.2019';
   public server: string = "SERVER PUVODNI";
   public name: string;
   public password: string;
